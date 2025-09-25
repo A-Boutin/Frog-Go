@@ -6,12 +6,15 @@ You are fighting against your frog grandfather who attempts to teach you the gam
 ---
 ## Playing The Game
 ![til](./gifs/PlayingGo.gif)
+
 You can play the game of Go with all of its intended rules and mechanics. After you place your stone, your grandfather will then place his stone after a short amount of time.
 
 ### Capturing Pieces
 ![til](./gifs/CapturingPieces.gif)
+
 Capturing pieces happens the same as in the original game of Go.
 
 ### Cheating
 ![til](./gifs/Cheating.gif)
+
 If you do not wait for your grandfather and instead decide to place a second stone, the game will let you. This is cheating, and is not allowed in the actual game of Go. This is a feature of this version of the game. This can be used to gain an advantage in a losing scenario, but be careful that you are not caught!
